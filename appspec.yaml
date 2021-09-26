@@ -6,4 +6,4 @@ Resources:
         TaskDefinition: "arn:aws:ecs:us-east-1:812614658780:task-definition/prod-tf"
         LoadBalancerInfo:
           ContainerName: "prod-container"
-          ContainerPort: 80
+          ContainerPort: 8080
