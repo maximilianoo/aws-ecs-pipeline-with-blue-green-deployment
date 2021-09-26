@@ -7,3 +7,4 @@ Resources:
         LoadBalancerInfo:
           ContainerName: "prod-container"
           ContainerPort: 8080
+          
