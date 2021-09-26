@@ -3,8 +3,8 @@ version: 0.2
 env:
   variables:
     AWS_REGION: us-east-1 # checkfor specific region
-    AWS_ACCOUNT_ID: 708995052028
-    IMAGE_NAME: aws-pipeline-with-ecs-blue-green-deployment-image
+    AWS_ACCOUNT_ID: 812614658780
+    IMAGE_NAME: 812614658780.dkr.ecr.us-east-1.amazonaws.com/challenge_back
     
 phases:
   install:
